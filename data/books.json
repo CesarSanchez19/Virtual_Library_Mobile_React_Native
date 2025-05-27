@@ -1,0 +1,624 @@
+{
+    "Books": [
+        {
+            "titulo": "Cien años de soledad",
+            "autores": [
+                "Gabriel García Márquez"
+            ],
+            "año_edicion": 1967,
+            "descripcion": "Novela emblemática del realismo mágico que narra la saga de la familia Buendía en el mítico pueblo de Macondo.",
+            "publicacion": {
+                "$date": "1967-05-30T00:00:00Z"
+            },
+            "ISBN": "9788497592208",
+            "genero": [
+                "Realismo mágico",
+                "Novela histórica",
+                "Ficción"
+            ],
+            "idioma": "es",
+            "numero_paginas": 417,
+            "imagen": "https://m.media-amazon.com/images/I/71YoFJSz3LL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.7,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "1984",
+            "autores": [
+                "George Orwell"
+            ],
+            "año_edicion": 1949,
+            "descripcion": "Distopía política donde el Gran Hermano vigila cada movimiento y la verdad se manipula a voluntad del Partido.",
+            "publicacion": {
+                "$date": "1949-06-08T00:00:00Z"
+            },
+            "ISBN": "9780451524935",
+            "genero": [
+                "Distopía",
+                "Ciencia ficción",
+                "Ficción política"
+            ],
+            "idioma": "en",
+            "numero_paginas": 328,
+            "imagen": "https://m.media-amazon.com/images/I/61HkdyBpKOL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.6,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "El principito",
+            "autores": [
+                "Antoine de Saint-Exupéry"
+            ],
+            "año_edicion": 1943,
+            "descripcion": "Fábula poética sobre un pequeño príncipe que recorre planetas y reflexiona sobre la naturaleza humana.",
+            "publicacion": {
+                "$date": "1943-04-06T00:00:00Z"
+            },
+            "ISBN": "9780156012195",
+            "genero": [
+                "Fábula",
+                "Infantil",
+                "Fantasía"
+            ],
+            "idioma": "fr",
+            "numero_paginas": 96,
+            "imagen": "https://m.media-amazon.com/images/I/513yzmHmn2L._AC_UF350,350_QL80_.jpg",
+            "calificacion": 4.8,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Don Quijote de la Mancha",
+            "autores": [
+                "Miguel de Cervantes"
+            ],
+            "año_edicion": 1605,
+            "descripcion": "Las aventuras del ingenioso hidalgo Don Quijote y su fiel escudero Sancho Panza en busca de justicia caballeresca.",
+            "publicacion": {
+                "$date": "1605-01-16T00:00:00Z"
+            },
+            "ISBN": "9788491050043",
+            "genero": [
+                "Novela",
+                "Sátira",
+                "Clásico"
+            ],
+            "idioma": "es",
+            "numero_paginas": 863,
+            "imagen": "https://images.cdn1.buscalibre.com/fit-in/360x360/a6/18/a618be10eae5c2a608ec6e22e6917e29.jpg",
+            "calificacion": 4.4,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Orgullo y prejuicio",
+            "autores": [
+                "Jane Austen"
+            ],
+            "año_edicion": 1813,
+            "descripcion": "Romance y sátira social que narra el lento enamoramiento entre Elizabeth Bennet y el señor Darcy.",
+            "publicacion": {
+                "$date": "1813-01-28T00:00:00Z"
+            },
+            "ISBN": "9780141439518",
+            "genero": [
+                "Romance",
+                "Clásico",
+                "Comedia de costumbres"
+            ],
+            "idioma": "en",
+            "numero_paginas": 279,
+            "imagen": "https://m.media-amazon.com/images/I/81RC15VKlQL._UF894,1000_QL80_.jpg",
+            "calificacion": 4.5,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Matar a un ruiseñor",
+            "autores": [
+                "Harper Lee"
+            ],
+            "año_edicion": 1960,
+            "descripcion": "A través de la niña Scout, se exploran el racismo y la injusticia en el sur de Estados Unidos.",
+            "publicacion": {
+                "$date": "1960-07-11T00:00:00Z"
+            },
+            "ISBN": "9780061120084",
+            "genero": [
+                "Drama",
+                "Clásico",
+                "Coming-of-age"
+            ],
+            "idioma": "en",
+            "numero_paginas": 281,
+            "imagen": "https://m.media-amazon.com/images/I/61g5pbNVv6L._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.8,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "El gran Gatsby",
+            "autores": [
+                "F. Scott Fitzgerald"
+            ],
+            "año_edicion": 1925,
+            "descripcion": "Retrato lujoso y tragicómico del sueño americano en los felices años veinte.",
+            "publicacion": {
+                "$date": "1925-04-10T00:00:00Z"
+            },
+            "ISBN": "9780743273565",
+            "genero": [
+                "Novela",
+                "Clásico",
+                "Drama"
+            ],
+            "idioma": "en",
+            "numero_paginas": 180,
+            "imagen": "https://m.media-amazon.com/images/I/81bVJrf6L8L._UF894,1000_QL80_.jpg",
+            "calificacion": 4.3,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Crimen y castigo",
+            "autores": [
+                "Fiódor Dostoyevski"
+            ],
+            "año_edicion": 1866,
+            "descripcion": "Profunda exploración psicológica de la culpa y la redención tras un asesinato.",
+            "publicacion": {
+                "$date": "1866-01-01T00:00:00Z"
+            },
+            "ISBN": "9780140449136",
+            "genero": [
+                "Filosófica",
+                "Novela",
+                "Psicológico"
+            ],
+            "idioma": "ru",
+            "numero_paginas": 671,
+            "imagen": "https://m.media-amazon.com/images/I/713hTReVysL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.6,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "La sombra del viento",
+            "autores": [
+                "Carlos Ruiz Zafón"
+            ],
+            "año_edicion": 2001,
+            "descripcion": "Intriga literaria ambientada en la Barcelona de posguerra y el Cementerio de los Libros Olvidados.",
+            "publicacion": {
+                "$date": "2001-04-12T00:00:00Z"
+            },
+            "ISBN": "9788408163381",
+            "genero": [
+                "Misterio",
+                "Narrativa",
+                "Thriller"
+            ],
+            "idioma": "es",
+            "numero_paginas": 487,
+            "imagen": "https://m.media-amazon.com/images/I/81kVMvJzXTL._UF894,1000_QL80_.jpg",
+            "calificacion": 4.7,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Fahrenheit 451",
+            "autores": [
+                "Ray Bradbury"
+            ],
+            "año_edicion": 1953,
+            "descripcion": "En una sociedad donde los libros están prohibidos, un bombero quema obras y descubre el valor de la lectura.",
+            "publicacion": {
+                "$date": "1953-10-19T00:00:00Z"
+            },
+            "ISBN": "9781451673319",
+            "genero": [
+                "Distopía",
+                "Ciencia ficción",
+                "Ficción social"
+            ],
+            "idioma": "en",
+            "numero_paginas": 194,
+            "imagen": "https://m.media-amazon.com/images/I/61sKsbPb5GL.jpg",
+            "calificacion": 4.5,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "El señor de los anillos: La comunidad del anillo",
+            "autores": [
+                "J.R.R. Tolkien"
+            ],
+            "año_edicion": 1954,
+            "descripcion": "Inicio de la épica trilogía donde la Compañía del Anillo emprende la misión de destruir el Anillo Único.",
+            "publicacion": {
+                "$date": "1954-07-29T00:00:00Z"
+            },
+            "ISBN": "9780547928210",
+            "genero": [
+                "Fantasía",
+                "Aventura",
+                "Épica"
+            ],
+            "idioma": "en",
+            "numero_paginas": 423,
+            "imagen": "https://m.media-amazon.com/images/I/816QLZKwmIL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.9,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Harry Potter y la piedra filosofal",
+            "autores": [
+                "J.K. Rowling"
+            ],
+            "año_edicion": 1997,
+            "descripcion": "Primer libro de la saga en el que Harry descubre que es un mago y asiste a la escuela Hogwarts.",
+            "publicacion": {
+                "$date": "1997-06-26T00:00:00Z"
+            },
+            "ISBN": "9780747532699",
+            "genero": [
+                "Fantasía",
+                "Aventura",
+                "Juvenil"
+            ],
+            "idioma": "en",
+            "numero_paginas": 223,
+            "imagen": "https://m.media-amazon.com/images/I/81dxFCnAp0L.jpg",
+            "calificacion": 4.8,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Moby Dick",
+            "autores": [
+                "Herman Melville"
+            ],
+            "año_edicion": 1851,
+            "descripcion": "Obsesión del capitán Ahab por cazar la gran ballena blanca, Moby Dick.",
+            "publicacion": {
+                "$date": "1851-10-18T00:00:00Z"
+            },
+            "ISBN": "9780142437247",
+            "genero": [
+                "Aventura",
+                "Marina",
+                "Clásico"
+            ],
+            "idioma": "en",
+            "numero_paginas": 635,
+            "imagen": "https://m.media-amazon.com/images/I/71K4OH9CqOL._UF894,1000_QL80_DpWeblab_.jpg",
+            "calificacion": 4.1,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "La odisea",
+            "autores": [
+                "Homero"
+            ],
+            "año_edicion": -800,
+            "descripcion": "Épico viaje de Ulises para regresar a Ítaca tras la guerra de Troya, lleno de monstruos y dioses.",
+            "publicacion": {
+                "$date": "-0800-01-01T00:00:00Z"
+            },
+            "ISBN": "N/A",
+            "genero": [
+                "Épica",
+                "Mitología",
+                "Aventura"
+            ],
+            "idioma": "griego antiguo",
+            "numero_paginas": 541,
+            "imagen": "https://m.media-amazon.com/images/I/61YUYPYlkzL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.3,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Hamlet",
+            "autores": [
+                "William Shakespeare"
+            ],
+            "año_edicion": 1603,
+            "descripcion": "Tragedia shakespeariana sobre el príncipe de Dinamarca y su venganza contra su tío Claudio.",
+            "publicacion": {
+                "$date": "1603-01-01T00:00:00Z"
+            },
+            "ISBN": "N/A",
+            "genero": [
+                "Tragedia",
+                "Drama",
+                "Clásico"
+            ],
+            "idioma": "inglés antiguo",
+            "numero_paginas": 200,
+            "imagen": "https://m.media-amazon.com/images/I/81ZTRJyMbTS._UF894,1000_QL80_.jpg",
+            "calificacion": 4.5,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Ulises",
+            "autores": [
+                "James Joyce"
+            ],
+            "año_edicion": 1922,
+            "descripcion": "Retrato en un solo día de la vida de Leopold Bloom en Dublín, lleno de experimentación lingüística.",
+            "publicacion": {
+                "$date": "1922-02-02T00:00:00Z"
+            },
+            "ISBN": "9780141182803",
+            "genero": [
+                "Modernista",
+                "Ficción literaria",
+                "Experimental"
+            ],
+            "idioma": "en",
+            "numero_paginas": 730,
+            "imagen": "https://m.media-amazon.com/images/I/71yxeP1BtBL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 3.9,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "El código Da Vinci",
+            "autores": [
+                "Dan Brown"
+            ],
+            "año_edicion": 2003,
+            "descripcion": "Thriller de misterio que mezcla arte, religión y símbolos ocultos tras el Museo del Louvre.",
+            "publicacion": {
+                "$date": "2003-03-18T00:00:00Z"
+            },
+            "ISBN": "9780307474278",
+            "genero": [
+                "Thriller",
+                "Misterio",
+                "Suspenso",
+                "Ficción histórica"
+            ],
+            "idioma": "en",
+            "numero_paginas": 489,
+            "imagen": "https://m.media-amazon.com/images/I/71PR0C4XNjL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.0,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Los pilares de la tierra",
+            "autores": [
+                "Ken Follett"
+            ],
+            "año_edicion": 1989,
+            "descripcion": "Novela histórica sobre intrigas políticas y la construcción de una catedral en la Edad Media.",
+            "publicacion": {
+                "$date": "1989-10-01T00:00:00Z"
+            },
+            "ISBN": "9780451166890",
+            "genero": [
+                "Histórico",
+                "Aventura",
+                "Ficción"
+            ],
+            "idioma": "en",
+            "numero_paginas": 973,
+            "imagen": "https://m.media-amazon.com/images/I/91sdUQ3NsxL._AC_UF350,350_QL50_.jpg",
+            "calificacion": 4.4,
+            "fecha_creacion": {
+                "$date": "2025-05-25T12:00:00Z"
+            }
+        },
+        {
+            "titulo": "Clean Code",
+            "autores": [
+                "Robert C. Martin"
+            ],
+            "año_edicion": 2008,
+            "descripcion": "Guía fundamental para escribir código limpio, legible y mantenible. Ideal para desarrolladores que no quieren dejar su legado hecho un desastre.",
+            "ISBN": "9780132350884",
+            "genero": [
+                "Programación",
+                "Buenas prácticas",
+                "Desarrollo de software"
+            ],
+            "idioma": "en",
+            "numero_paginas": 464,
+            "imagen": "https://m.media-amazon.com/images/I/61orja1+P7L.jpg",
+            "calificacion": 4.8
+        },
+        {
+            "titulo": "The Pragmatic Programmer",
+            "autores": [
+                "Andrew Hunt",
+                "David Thomas"
+            ],
+            "año_edicion": 1999,
+            "descripcion": "Libro legendario que mezcla filosofía, consejos prácticos y experiencia para convertirte en un programador versátil y profesional.",
+            "ISBN": "9780201616224",
+            "genero": [
+                "Desarrollo de software",
+                "Productividad",
+                "Ingeniería de software"
+            ],
+            "idioma": "en",
+            "numero_paginas": 352,
+            "imagen": "https://m.media-amazon.com/images/I/61ztlXgCmpL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.7
+        },
+        {
+            "titulo": "Eloquent JavaScript",
+            "autores": [
+                "Marijn Haverbeke"
+            ],
+            "año_edicion": 2018,
+            "descripcion": "Una introducción elegante (y divertida) a JavaScript y a los fundamentos de la programación moderna.",
+            "ISBN": "9781593279509",
+            "genero": [
+                "Programación",
+                "JavaScript",
+                "Frontend"
+            ],
+            "idioma": "en",
+            "numero_paginas": 472,
+            "imagen": "https://m.media-amazon.com/images/I/81HqVRRwp3L.jpg",
+            "calificacion": 4.6
+        },
+        {
+            "titulo": "You Don’t Know JS (Yet)",
+            "autores": [
+                "Kyle Simpson"
+            ],
+            "año_edicion": 2020,
+            "descripcion": "Serie de libros para los que quieren entender JavaScript en profundidad, más allá del típico tutorial de ‘Hello World’.",
+            "ISBN": "9781091210098",
+            "genero": [
+                "JavaScript",
+                "Avanzado",
+                "Programación web"
+            ],
+            "idioma": "en",
+            "numero_paginas": 143,
+            "imagen": "https://m.media-amazon.com/images/I/61sAMmSyhZL._AC_UF1000,1000_QL80_.jpg",
+            "calificacion": 4.7
+        },
+        {
+            "titulo": "Code: The Hidden Language of Computer Hardware and Software",
+            "autores": [
+                "Charles Petzold"
+            ],
+            "año_edicion": 2000,
+            "descripcion": "Explora los fundamentos de cómo funcionan las computadoras desde los interruptores hasta los sistemas operativos. Te vuela la cabeza.",
+            "ISBN": "9780735611313",
+            "genero": [
+                "Historia de la computación",
+                "Fundamentos",
+                "Hardware y software"
+            ],
+            "idioma": "en",
+            "numero_paginas": 400,
+            "imagen": "https://m.media-amazon.com/images/I/61Mjv10cfXL._UF894,1000_QL80_.jpg",
+            "calificacion": 4.7
+        },
+        {
+            "titulo": "Structure and Interpretation of Computer Programs (SICP)",
+            "autores": [
+                "Harold Abelson",
+                "Gerald Jay Sussman"
+            ],
+            "año_edicion": 1996,
+            "descripcion": "Uno de los libros más legendarios del MIT. Aunque usa Scheme, te enseña a pensar como programador serio.",
+            "ISBN": "9780262510875",
+            "genero": [
+                "Teoría de la programación",
+                "Ciencias de la computación"
+            ],
+            "idioma": "en",
+            "numero_paginas": 657,
+            "imagen": "https://m.media-amazon.com/images/I/71xZu1kgXJL._UF894,1000_QL80_.jpg",
+            "calificacion": 4.6
+        },
+        {
+            "titulo": "Design Patterns: Elements of Reusable Object-Oriented Software",
+            "autores": [
+                "Erich Gamma",
+                "Richard Helm",
+                "Ralph Johnson",
+                "John Vlissides"
+            ],
+            "año_edicion": 1994,
+            "descripcion": "El famoso ‘Gang of Four’ te presenta los patrones de diseño que siguen vigentes en todos los frameworks modernos.",
+            "ISBN": "9780201633610",
+            "genero": [
+                "Diseño de software",
+                "Arquitectura",
+                "POO"
+            ],
+            "idioma": "en",
+            "numero_paginas": 416,
+            "imagen": "https://m.media-amazon.com/images/I/81IGFC6oFmL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.5
+        },
+        {
+            "titulo": "Refactoring: Improving the Design of Existing Code",
+            "autores": [
+                "Martin Fowler"
+            ],
+            "año_edicion": 2018,
+            "descripcion": "Aprende a transformar código ‘espagueti’ en algo legible, testeable y bonito, sin romper nada.",
+            "ISBN": "9780134757599",
+            "genero": [
+                "Refactorización",
+                "Buenas prácticas",
+                "Mantenimiento"
+            ],
+            "idioma": "en",
+            "numero_paginas": 448,
+            "imagen": "https://m.media-amazon.com/images/I/71e6ndHEwqL._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.8
+        },
+        {
+            "titulo": "Introduction to Algorithms (CLRS)",
+            "autores": [
+                "Thomas H. Cormen",
+                "Charles E. Leiserson",
+                "Ronald L. Rivest",
+                "Clifford Stein"
+            ],
+            "año_edicion": 2009,
+            "descripcion": "Biblia de algoritmos. Si quieres dominar entrevistas técnicas o resolver problemas complejos, este es tu grimorio.",
+            "ISBN": "9780262033848",
+            "genero": [
+                "Algoritmos",
+                "Estructuras de datos",
+                "Ciencia de la computación"
+            ],
+            "idioma": "en",
+            "numero_paginas": 1312,
+            "imagen": "https://m.media-amazon.com/images/I/61Pgdn8Ys-L._AC_UF894,1000_QL80_.jpg",
+            "calificacion": 4.6
+        },
+        {
+            "titulo": "Soft Skills: The Software Developer's Life Manual",
+            "autores": [
+                "John Sonmez"
+            ],
+            "año_edicion": 2014,
+            "descripcion": "Te enseña no solo a programar, sino a sobrevivir y prosperar como desarrollador en el mundo real (incluye fitness, finanzas y más).",
+            "ISBN": "9781617292392",
+            "genero": [
+                "Carrera profesional",
+                "Motivación",
+                "Vida del programador"
+            ],
+            "idioma": "en",
+            "numero_paginas": 504,
+            "imagen": "https://m.media-amazon.com/images/I/A1tYa0EpiyL.jpg",
+            "calificacion": 4.6
+        }
+    ]
+}
